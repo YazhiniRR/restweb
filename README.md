@@ -351,7 +351,7 @@ contact.html
         <p>Email: contact@hotelgrand.com</p>
     </main>
     <footer>
-        <p>Designed by YAZHINI.R.R| hotel grand © 2024</p>
+        <p>Designed by YAZHINI.R.R | HOTEL GRAND © 2024</p>
     </footer>
 </body>
 </html>
@@ -364,7 +364,7 @@ contact.html
 ![alt text](<pic 3.png>) 
 ![alt text](<pic 4.png>) 
 ![alt text](<pic 5.png>) 
-![alt text](<pic 6.png>)
+![alt text](<pic 6-1.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
